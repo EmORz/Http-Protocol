@@ -8,3 +8,4 @@ C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\Val
 C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.AssemblyInfo.cs
 C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.dll
 C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.pdb
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.csprojAssemblyReference.cache

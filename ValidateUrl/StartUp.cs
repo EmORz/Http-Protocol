@@ -10,7 +10,7 @@ namespace ValidateUrl
         {
             while (true)
             {
-                var inputUrl = Console.ReadLine().ToLower();
+                var inputUrl = Console.ReadLine();
                 var inputtDecode = HttpUtility.UrlDecode(inputUrl);
                 //
                 var strArr = inputtDecode.Split("://");
@@ -18,21 +18,50 @@ namespace ValidateUrl
                 var host = strArr[1].Split(".");
                 var host1 = host[1].Split("/", StringSplitOptions.RemoveEmptyEntries);
                 var allHost = (host[0]+"." + host1[0]).Trim().Split(":")[0];
-                var port =host1[0].Split(":") ;
+                //
+                var port = host1[0].Split(":");
                 var portResult = "";
-                if (port.Length>1)
-                {
-                    portResult = port[1];
-                }
-                else
-                {
-                    portResult = "80";
-                }
+                var checkerProtocol = (protocol == "http" || protocol == "https");
+                var checkerHost = allHost.Length >= 4;
 
-                Console.WriteLine(portResult);
-                var checker = (protocol == "http" || protocol=="https");
+                if (checkerHost&&checkerProtocol)
+                {
+                    if (port.Length > 1)
+                    {
+                        portResult = port[1];
+                    }
+                    else
+                    {
+                        portResult = "80";
+                    }
 
-                Console.WriteLine(protocol);
+                    var path = "";
+                    if (host1.Length == 1)
+                    {
+                        path = "/";
+                    }
+                    else
+                    {
+                        path = host1[1].Split("?")[0];
+                    }
+                    Console.WriteLine($"Protocol: {protocol}");
+                    Console.WriteLine($"Host: {allHost}");
+                    Console.WriteLine($"Port: {portResult}");
+                    Console.WriteLine($"Path: {path}");
+                }
+                //
+                if (host1.Length==2)
+                {
+                    var query = host1[1].Split("?")[1].Split("#");
+                    Console.WriteLine($"Query: {query[0]}");
+                    Console.WriteLine($"Fragment: {query[1]}");
+                }
+        
+
+
+
+
+
             }
      
         }
