@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\bin\Debug\netcoreapp2.1\Url_Decode.deps.json
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\bin\Debug\netcoreapp2.1\Url_Decode.runtimeconfig.json
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\bin\Debug\netcoreapp2.1\Url_Decode.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\bin\Debug\netcoreapp2.1\Url_Decode.dll
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\bin\Debug\netcoreapp2.1\Url_Decode.pdb
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.dll
+C:\Users\User\source\repos\Lab_Http_Protocol\Url_Decode\obj\Debug\netcoreapp2.1\Url_Decode.pdb
