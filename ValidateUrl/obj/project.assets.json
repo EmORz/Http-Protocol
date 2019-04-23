@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Http-Protocol\\Url_Decode\\Url_Decode.csproj",
-      "projectName": "Url_Decode",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Http-Protocol\\Url_Decode\\Url_Decode.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Http-Protocol\\ValidateUrl\\ValidateUrl.csproj",
+      "projectName": "ValidateUrl",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Http-Protocol\\ValidateUrl\\ValidateUrl.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Http-Protocol\\Url_Decode\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Http-Protocol\\ValidateUrl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

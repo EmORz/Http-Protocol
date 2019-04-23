@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\bin\Debug\netcoreapp2.1\ValidateUrl.deps.json
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\bin\Debug\netcoreapp2.1\ValidateUrl.runtimeconfig.json
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\bin\Debug\netcoreapp2.1\ValidateUrl.runtimeconfig.dev.json
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\bin\Debug\netcoreapp2.1\ValidateUrl.dll
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\bin\Debug\netcoreapp2.1\ValidateUrl.pdb
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.AssemblyInfo.cs
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.dll
+C:\Users\User\source\repos\Http-Protocol\ValidateUrl\obj\Debug\netcoreapp2.1\ValidateUrl.pdb
