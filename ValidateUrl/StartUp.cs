@@ -8,6 +8,7 @@ namespace ValidateUrl
     {
         public static void Main(string[] args)
         {
+            //todo refactoring
             while (true)
             {
                 var inputUrl = Console.ReadLine();

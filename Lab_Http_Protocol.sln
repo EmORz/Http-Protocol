@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Url_Decode", "Url_Decode\Url_Decode.csproj", "{1231F121-5DBA-48D6-9EF8-020D179311DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateUrl", "ValidateUrl\ValidateUrl.csproj", "{7EDFEDC2-62CF-4C1D-A2F7-E082C82501A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateUrl", "ValidateUrl\ValidateUrl.csproj", "{7EDFEDC2-62CF-4C1D-A2F7-E082C82501A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestParser", "RequestParser\RequestParser.csproj", "{630D4EA0-665F-4F35-AB58-E6DD681AFCAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7EDFEDC2-62CF-4C1D-A2F7-E082C82501A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EDFEDC2-62CF-4C1D-A2F7-E082C82501A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EDFEDC2-62CF-4C1D-A2F7-E082C82501A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630D4EA0-665F-4F35-AB58-E6DD681AFCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630D4EA0-665F-4F35-AB58-E6DD681AFCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630D4EA0-665F-4F35-AB58-E6DD681AFCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630D4EA0-665F-4F35-AB58-E6DD681AFCAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
